@@ -12,6 +12,7 @@ gdown = "*"
 tabulate = "*"
 pycaret = "*"
 dotenv = "*"
+nbstripout = "*"
 
 [dev-packages]
 ipykernel = "*"
