@@ -1,0 +1,536 @@
+Nome,Classe,Bolsa / Fonte,Tipo de Ativo,"Ativo /
+Cancelado",Código,"DivPag
+ < Dez 2020
+ Em moeda orig
+ em milhares
+ no exercício
+ consolid:sim*","DivPag
+ < Dez 2021
+ Em moeda orig
+ em milhares
+ no exercício
+ consolid:sim*","DivPag
+ < Dez 2022
+ Em moeda orig
+ em milhares
+ no exercício
+ consolid:sim*","DivPag
+ < Dez 2023
+ Em moeda orig
+ em milhares
+ no exercício
+ consolid:sim*","DivPag
+ < Dez 2024
+ Em moeda orig
+ em milhares
+ no exercício
+ consolid:sim*"
+3tentos,ON,Bovespa,Ação,ativo,TTEN3,-28.250,-25.721,-7.595,-57.238,-58.411
+524 Particip,ON,Bovespa,Ação,ativo,QVQP3,0,0,0,0,0
+Abc Brasil,PN,Bovespa,Ação,ativo,ABCB4,-107.371,-200.651,-309.801,-360.087,-12.708
+Aco Altona,ON,Bovespa,Ação,ativo,EALT3,-2.464,-9.142,0,0,0
+Aco Altona,PN,Bovespa,Ação,ativo,EALT4,-2.464,-9.142,0,0,0
+Aeris,ON,Bovespa,Ação,ativo,AERI3,-106.513,0,-15.781,0,0
+Aesoperacoes,ON,Bovespa,Ação,ativo,AESO3,0,-133.610,-719.676,-216.955,-100.000
+Afluente T,ON,Bovespa,Ação,ativo,AFLT3,-45.477,-39.668,-14.879,-37.420,-35.465
+Agribrasil,ON,Bovespa,Ação,ativo,GRAO3,-1.368,-9.441,-2.090,-684,0
+Agrogalaxy,ON,Bovespa,Ação,ativo,AGXY3,0,0,-27.968,-4.672,0
+Alfa Holding,ON,Bovespa,Ação,ativo,RPAD3,-7.109,-7.357,-7.722,-7.769,-8.198
+Alfa Holding,PNA,Bovespa,Ação,ativo,RPAD5,-7.109,-7.357,-7.722,-7.769,-8.198
+Alfa Holding,PNB,Bovespa,Ação,ativo,RPAD6,-7.109,-7.357,-7.722,-7.769,-8.198
+Aliperti,ON,Bovespa,Ação,ativo,APTI3,0,0,0,0,-1.089
+Aliperti,PN,Bovespa,Ação,ativo,APTI4,0,0,0,0,-1.089
+All Norte,ON,Bovespa,Ação,ativo,FRRN3B,-511.477,-956.917,-900.248,-117,-915.240
+All Norte,PNA,Bovespa,Ação,ativo,FRRN5B,-511.477,-956.917,-900.248,-117,-915.240
+All Norte,PNB,Bovespa,Ação,ativo,FRRN6B,-511.477,-956.917,-900.248,-117,-915.240
+Alliar,ON,Bovespa,Ação,ativo,AALR3,-6.347,0,-2.023,0,-382
+Allied,ON,Bovespa,Ação,ativo,ALLD3,-937,-113.861,-51.342,-32.995,-189.960
+Allos,ON,Bovespa,Ação,ativo,ALOS3,0,-60.000,-101.979,-292.894,-914.573
+Alpargatas,ON,Bovespa,Ação,ativo,ALPA3,-30.207,-148.590,-89.283,-23,-18
+Alpargatas,PN,Bovespa,Ação,ativo,ALPA4,-30.207,-148.590,-89.283,-23,-18
+Alphaville,ON,Bovespa,Ação,ativo,AVLL3,0,0,0,0,0
+Alupar,ON,Bovespa,Ação,ativo,ALUP3,-655.655,-879.174,-1.063.689,-1.113.386,-951.952
+Alupar,PN,Bovespa,Ação,ativo,ALUP4,-655.655,-879.174,-1.063.689,-1.113.386,-951.952
+Alupar,UNT N2,Bovespa,Ação,ativo,ALUP11,-655.655,-879.174,-1.063.689,-1.113.386,-951.952
+Amazonia,ON,Bovespa,Ação,ativo,BAZA3,-106.393,-77.037,-203.134,-311.492,-370.968
+Ambev S/A,ON,Bovespa,Ação,ativo,ABEV3,-6.850.271,-11.115.251,-12.242.324,-11.921.949,-4.056.383
+Ambipar,ON,Bovespa,Ação,ativo,AMBP3,-2.100,-8.822,-24.136,-27.254,-30.592
+Americanas,ON,Bovespa,Ação,ativo,AMER3,0,0,-333.205,0,0
+Ampla Energ,ON,Bovespa,Ação,ativo,CBEE3,-66.295,-24,-29,0,0
+Anima,ON,Bovespa,Ação,ativo,ANIM3,0,0,0,0,0
+Armac,ON,Bovespa,Ação,ativo,ARML3,-21.389,-49.185,-99.483,-100.000,-106.800
+Assai,ON,Bovespa,Ação,ativo,ASAI3,-489.000,-148.000,-168.000,-118.000,0
+Atom Educ,ON,Bovespa,Ação,ativo,ATED3,-,-,-,-,-
+Aura 360,ON,Bovespa,Ação,ativo,AURA33,-13.556,-460.997,-102.334,-136.113,-233.384
+Auren,ON,Bovespa,Ação,ativo,AURE3,-,-502.362,-99.994,-2.999.626,-399.950
+Automob,ON,Bovespa,Ação,ativo,AMOB3,-,-,-,-383,0
+Azevedo,ON,Bovespa,Ação,ativo,AZEV3,0,0,0,0,0
+Azevedo,PN,Bovespa,Ação,ativo,AZEV4,0,0,0,0,0
+Azt Energia,ON,Bovespa,Ação,ativo,AZTE3,-,-,-,-,0
+Azul,PN,Bovespa,Ação,ativo,AZUL4,0,0,0,0,0
+Azzas 2154,ON,Bovespa,Ação,ativo,AZZA3,-42.415,-29.590,-103.468,-263.342,-118.749
+B3,ON,Bovespa,Ação,ativo,B3SA3,-3.884.422,-6.705.127,-2.610.466,-2.035.569,-2.043.770
+Banco BMG,PN,Bovespa,Ação,ativo,BMGB4,-130.584,-90.212,-298.511,-85.531,-349.519
+Banco Pan,PN,Bovespa,Ação,ativo,BPAN4,-201.248,-254.896,-296.708,-320.000,-273.000
+Banese,ON,Bovespa,Ação,ativo,BGIP3,-21.357,-21.000,-36.000,-31.752,-47.935
+Banese,PN,Bovespa,Ação,ativo,BGIP4,-21.357,-21.000,-36.000,-31.752,-47.935
+Banestes,ON,Bovespa,Ação,ativo,BEES3,-74.096,-109.069,-184.307,-199.322,-216.499
+Banestes,PN,Bovespa,Ação,ativo,BEES4,-74.096,-109.069,-184.307,-199.322,-216.499
+Banpara,ON,Bovespa,Ação,ativo,BPAR3,-160.821,-98.625,-98.721,-61.855,-172.838
+Banrisul,ON,Bovespa,Ação,ativo,BRSR3,-216.673,-442.442,-360.495,-374.827,-406.926
+Banrisul,PNA,Bovespa,Ação,ativo,BRSR5,-216.673,-442.442,-360.495,-374.827,-406.926
+Banrisul,PNB,Bovespa,Ação,ativo,BRSR6,-216.673,-442.442,-360.495,-374.827,-406.926
+Bardella,ON,Bovespa,Ação,ativo,BDLL3,0,0,0,0,0
+Bardella,PN,Bovespa,Ação,ativo,BDLL4,0,0,0,0,0
+Baumer,ON,Bovespa,Ação,ativo,BALM3,-2.307,-4.846,-4.796,1.167,-7.484
+Baumer,PN,Bovespa,Ação,ativo,BALM4,-2.307,-4.846,-4.796,1.167,-7.484
+Bbmlogistica,ON,Bovespa,Ação,ativo,BBML3,-3.265,-2.114,0,0,-
+BBSeguridade,ON,Bovespa,Ação,ativo,BBSE3,-5.562.658,-1.990.675,-3.925.751,-6.960.998,-5.193.340
+Bemobi Tech,ON,Bovespa,Ação,ativo,BMOB3,0,-186.718,-17.895,-20.322,-40.425
+Betapart,ON,Bovespa,Ação,ativo,BETP3,0,0,0,0,0
+Bic Monark,ON,Bovespa,Ação,ativo,BMKS3,0,-3.575,-8.064,-26.067,-17.718
+Bioma Educ,ON,Bovespa,Ação,ativo,BIED3,0,0,0,0,0
+Biomm,ON,Bovespa,Ação,ativo,BIOM3,0,0,0,0,0
+Blau,ON,Bovespa,Ação,ativo,BLAU3,-326.923,-104.134,-135.523,-66.162,-56.108
+Boa Safra,ON,Bovespa,Ação,ativo,SOJA3,0,-2.385,-4.700,-63.033,-162.498
+Bombril,ON,Bovespa,Ação,ativo,BOBR3,0,0,0,0,-
+Bombril,PN,Bovespa,Ação,ativo,BOBR4,0,0,0,0,-
+BR Partners,UNT N2,Bovespa,Ação,ativo,BRBI11,-,-34.827,-148.468,-138.595,-204.742
+Bradesco,ON,Bovespa,Ação,ativo,BBDC3,-1.432.130,-9.914.297,-,-,-
+Bradesco,PN,Bovespa,Ação,ativo,BBDC4,-1.432.130,-9.914.297,-,-,-
+Bradespar,ON,Bovespa,Ação,ativo,BRAP3,-887.855,-4.020.304,-1.145.322,-1.151.658,-747.196
+Bradespar,PN,Bovespa,Ação,ativo,BRAP4,-887.855,-4.020.304,-1.145.322,-1.151.658,-747.196
+Brasil,ON,Bovespa,Ação,ativo,BBAS3,-6.070.657,-7.124.620,-13.175.440,-15.358.323,-14.824.290
+Brasilagro,ON,Bovespa,Ação,ativo,AGRO3,-39.693,-259.978,-319.975,-318.990,-154.521
+Braskem,ON,Bovespa,Ação,ativo,BRKM3,-2.380,-5.993.265,-1.350.293,-7.000,-6.000
+Braskem,PNA,Bovespa,Ação,ativo,BRKM5,-2.380,-5.993.265,-1.350.293,-7.000,-6.000
+Braskem,PNB,Bovespa,Ação,ativo,BRKM6,-2.380,-5.993.265,-1.350.293,-7.000,-6.000
+Brava,ON,Bovespa,Ação,ativo,BRAV3,0,0,0,0,0
+BRB Banco,ON,Bovespa,Ação,ativo,BSLI3,-165.303,-117.341,-322.400,-52.000,-854
+BRB Banco,PN,Bovespa,Ação,ativo,BSLI4,-165.303,-117.341,-322.400,-52.000,-854
+BRF SA,ON,Bovespa,Ação,ativo,BRFS3,0,0,0,0,-1.144.453
+Brisanet,ON,Bovespa,Ação,ativo,BRST3,-,-,-,-19.605,-64.532
+Brq,ON,Bovespa,Ação,ativo,BRQB3,-,-,-,-,-
+Btgp Banco,ON,Bovespa,Ação,ativo,BPAC3,-541.000,-1.746.000,-2.025.000,-2.845.000,-2.995.000
+Btgp Banco,PNA,Bovespa,Ação,ativo,BPAC5,-541.000,-1.746.000,-2.025.000,-2.845.000,-2.995.000
+Btgp Banco,UNT,Bovespa,Ação,ativo,BPAC11,-541.000,-1.746.000,-2.025.000,-2.845.000,-2.995.000
+Caixa Seguri,ON,Bovespa,Ação,ativo,CXSE3,-1.844.200,-1.835.080,-1.945.710,-3.030.376,-3.241.014
+Cambuci,ON,Bovespa,Ação,ativo,CAMB3,0,0,-8.106,-12.483,-27.917
+Camil,ON,Bovespa,Ação,ativo,CAML3,-30.000,-65.000,-100.000,-75.000,-75.000
+Casan,ON,Bovespa,Ação,ativo,CASN3,0,0,0,0,-57.719
+Casan,PN,Bovespa,Ação,ativo,CASN4,0,0,0,0,-57.719
+Casas Bahia,ON,Bovespa,Ação,ativo,BHIA3,0,0,0,0,0
+Cba,ON,Bovespa,Ação,ativo,CBAV3,0,-11.391,-30.002,-82.846,-129.815
+Cea Modas,ON,Bovespa,Ação,ativo,CEAB3,-68.846,-1,0,0,0
+Ceb,ON,Bovespa,Ação,ativo,CEBR3,-48.645,-1.446.682,-307.132,-264.413,-207.396
+Ceb,PNA,Bovespa,Ação,ativo,CEBR5,-48.645,-1.446.682,-307.132,-264.413,-207.396
+Ceb,PNB,Bovespa,Ação,ativo,CEBR6,-48.645,-1.446.682,-307.132,-264.413,-207.396
+Cedro,ON,Bovespa,Ação,ativo,CEDO3,0,0,0,0,0
+Cedro,PN,Bovespa,Ação,ativo,CEDO4,0,0,0,0,0
+Ceee-D,ON,Bovespa,Ação,ativo,CEED3,0,0,0,0,0
+Ceee-D,PN,Bovespa,Ação,ativo,CEED4,0,0,0,0,0
+Ceg,ON,Bovespa,Ação,ativo,CEGR3,-232.311,-607.063,-168.831,-274.985,-392.203
+Celesc,ON,Bovespa,Ação,ativo,CLSC3,-67.250,-123.004,-143.270,-179.469,-211.369
+Celesc,PN,Bovespa,Ação,ativo,CLSC4,-67.250,-123.004,-143.270,-179.469,-211.369
+Celgpar,ON,Bovespa,Ação,ativo,GPAR3,0,0,-1.180.829,0,-
+Cemepe,ON,Bovespa,Ação,ativo,MAPT3,-,-,-,-,-
+Cemepe,PN,Bovespa,Ação,ativo,MAPT4,-,-,-,-,-
+Cemig,ON,Bovespa,Ação,ativo,CMIG3,-598.135,-1.416.333,-2.093.907,-1.823.019,-4.294.458
+Cemig,PN,Bovespa,Ação,ativo,CMIG4,-598.135,-1.416.333,-2.093.907,-1.823.019,-4.294.458
+Ciabrasf,ON,Bovespa,Ação,ativo,ADMF3,-,-,-,-,-
+Coelba,ON,Bovespa,Ação,ativo,CEEB3,-112.000,-1.711.000,-1.674.000,-1.166.000,-711.000
+Coelba,PNA,Bovespa,Ação,ativo,CEEB5,-112.000,-1.711.000,-1.674.000,-1.166.000,-711.000
+Coelba,PNB,Bovespa,Ação,ativo,CEEB6,-112.000,-1.711.000,-1.674.000,-1.166.000,-711.000
+Coelce,ON,Bovespa,Ação,ativo,COCE3,-90.217,-199.501,-140.608,-173.659,-20.860
+Coelce,PNA,Bovespa,Ação,ativo,COCE5,-90.217,-199.501,-140.608,-173.659,-20.860
+Coelce,PNB,Bovespa,Ação,ativo,COCE6,-90.217,-199.501,-140.608,-173.659,-20.860
+Cogna ON,ON,Bovespa,Ação,ativo,COGN3,0,0,0,0,0
+Comerc,ON,Bovespa,Ação,ativo,COMR3,-10.057,-27.433,0,-4.552,-711
+Comgas,ON,Bovespa,Ação,ativo,CGAS3,-1.135.669,-1.649.653,-1.872.732,-430.120,-2.735.338
+Comgas,PNA,Bovespa,Ação,ativo,CGAS5,-1.135.669,-1.649.653,-1.872.732,-430.120,-2.735.338
+Compass Gas,ON,Bovespa,Ação,ativo,PASS3,-614.784,-1.001.855,-1.709.838,-1.340.220,-3.073.706
+Compass Gas,PNB,Bovespa,Ação,ativo,PASS6,-614.784,-1.001.855,-1.709.838,-1.340.220,-3.073.706
+Conc Rio Ter,ON,Bovespa,Ação,ativo,CRTE3,-25.270,-51.120,-40.974,-47.039,0
+Conc Rio Ter,PNA,Bovespa,Ação,ativo,CRTE5,-25.270,-51.120,-40.974,-47.039,0
+Const A Lind,ON,Bovespa,Ação,ativo,CALI3,0,0,-1.602,-1.660,-2.294
+Contax,ON,Bovespa,Ação,ativo,CTAX3,-3.000,-9.494,0,0,0
+Copasa,ON,Bovespa,Ação,ativo,CSMG3,-1.044.982,-340.119,-136.141,-777.446,-1.157.515
+Copel,ON,Bovespa,Ação,ativo,CPLE3,-626.357,-3.874.318,-2.167.769,-750.371,-1.586.565
+Copel,PNA,Bovespa,Ação,ativo,CPLE5,-626.357,-3.874.318,-2.167.769,-750.371,-1.586.565
+Copel,PNB,Bovespa,Ação,ativo,CPLE6,-626.357,-3.874.318,-2.167.769,-750.371,-1.586.565
+Cosan,ON,Bovespa,Ação,ativo,CSAN3,-764.996,-1.841.494,-1.908.171,-2.582.447,-3.447.103
+Coteminas,ON,Bovespa,Ação,ativo,CTNM3,-1.052,-9,-1.789,-136,-
+Coteminas,PN,Bovespa,Ação,ativo,CTNM4,-1.052,-9,-1.789,-136,-
+CPFL Energia,ON,Bovespa,Ação,ativo,CPFE3,-2.116.379,-4.298.495,-3.872.339,-3.570.467,-3.479.652
+Cristal,ON,Bovespa,Ação,ativo,CRPG3,-3.965,-156.141,-129.347,-25.075,-8.094
+Cristal,PNA,Bovespa,Ação,ativo,CRPG5,-3.965,-156.141,-129.347,-25.075,-8.094
+Cristal,PNB,Bovespa,Ação,ativo,CRPG6,-3.965,-156.141,-129.347,-25.075,-8.094
+Cruzeiro Edu,ON,Bovespa,Ação,ativo,CSED3,-54.000,-71.855,-50.000,-85.083,-60.000
+Csn Mineracao,ON,Bovespa,Ação,ativo,CMIN3,-2.380.000,-3.609.607,-5.438.635,-3.854.265,-4.326.702
+Csu Digital,ON,Bovespa,Ação,ativo,CSUD3,-9.065,-16.803,-30.200,-57.614,-34.517
+Ctc S.A.,ON,Bovespa,Ação,ativo,CTCA3,-,-25.745,-32.681,-21.907,-36.330
+Cury S/A,ON,Bovespa,Ação,ativo,CURY3,-170.000,-165.000,-150.000,-328.348,-483.537
+Cvc Brasil,ON,Bovespa,Ação,ativo,CVCB3,-56.493,0,0,0,0
+Cyrela Realt,ON,Bovespa,Ação,ativo,CYRE3,-1.018.061,-200.901,-25.034,-317.126,-223.746
+D1000vfarma,ON,Bovespa,Ação,ativo,DMVF3,0,0,0,0,0
+Dasa,ON,Bovespa,Ação,ativo,DASA3,-204.450,-220.250,-159.241,0,-10.083
+Desktopsigma,ON,Bovespa,Ação,ativo,DESK3,0,0,-1.227,-2.148,-5.274
+Dexco,ON,Bovespa,Ação,ativo,DXCO3,-257.302,-1.393.749,-55,-248.774,-233.864
+Dexxos Par,ON,Bovespa,Ação,ativo,DEXP3,-2.516,-28.238,-41.904,-41.552,-57.996
+Dexxos Par,PN,Bovespa,Ação,ativo,DEXP4,-2.516,-28.238,-41.904,-41.552,-57.996
+Dimed,ON,Bovespa,Ação,ativo,PNVL3,-18.241,-20.442,-24.752,-28.721,-33.165
+Direcional,ON,Bovespa,Ação,ativo,DIRR3,-120.364,-100.147,-69.964,-161.669,-405.731
+Dohler,ON,Bovespa,Ação,ativo,DOHL3,-11.327,-22.268,-20.274,0,0
+Dohler,PN,Bovespa,Ação,ativo,DOHL4,-11.327,-22.268,-20.274,0,0
+Dotz SA,ON,Bovespa,Ação,ativo,DOTZ3,0,0,0,0,0
+Dtcom Direct,ON,Bovespa,Ação,ativo,DTCY3,0,0,0,0,0
+Dtcom Direct,PN,Bovespa,Ação,ativo,DTCY4,0,0,0,0,0
+Ecorodovias,ON,Bovespa,Ação,ativo,ECOR3,0,0,-5.277,-58.351,-135.270
+Elektro,ON,Bovespa,Ação,ativo,EKTR3,-57.000,-628.000,-1.428.000,-722.000,-1.973.000
+Elektro,PN,Bovespa,Ação,ativo,EKTR4,-57.000,-628.000,-1.428.000,-722.000,-1.973.000
+Eletrobras,ON,Bovespa,Ação,ativo,ELET3,-2.593.945,-3.747.606,-1.490.058,-864.192,-1.307.858
+Eletrobras,PNA,Bovespa,Ação,ativo,ELET5,-2.593.945,-3.747.606,-1.490.058,-864.192,-1.307.858
+Eletrobras,PNB,Bovespa,Ação,ativo,ELET6,-2.593.945,-3.747.606,-1.490.058,-864.192,-1.307.858
+Eletropar,ON,Bovespa,Ação,ativo,LIPR3,0,-12.942,-18.929,-27.864,-16.549
+Emae,ON,Bovespa,Ação,ativo,EMAE3,-60.565,-282.874,-29.565,-106.540,-55.112
+Emae,PN,Bovespa,Ação,ativo,EMAE4,-60.565,-282.874,-29.565,-106.540,-55.112
+Embpar S/A,ON,Bovespa,Ação,ativo,EPAR3,0,0,0,0,0
+Embraer,ON,Bovespa,Ação,ativo,EMBR3,0,0,0,-66.646,0
+Energisa,ON,Bovespa,Ação,ativo,ENGI3,-303.038,-893.564,-1.581.828,-1.256.640,-1.596.264
+Energisa,PN,Bovespa,Ação,ativo,ENGI4,-303.038,-893.564,-1.581.828,-1.256.640,-1.596.264
+Energisa,UNT N2,Bovespa,Ação,ativo,ENGI11,-303.038,-893.564,-1.581.828,-1.256.640,-1.596.264
+Energisa Mt,ON,Bovespa,Ação,ativo,ENMT3,-81.392,-1.119.108,-774.627,-776.769,-601.757
+Energisa Mt,PN,Bovespa,Ação,ativo,ENMT4,-81.392,-1.119.108,-774.627,-776.769,-601.757
+Eneva,ON,Bovespa,Ação,ativo,ENEV3,0,0,0,-42.630,-233.679
+Engie Brasil,ON,Bovespa,Ação,ativo,EGIE3,-1.240.918,-2.792.602,-2.286.031,-2.379.596,-1.133.999
+Enjoei,ON,Bovespa,Ação,ativo,ENJU3,0,0,0,0,0
+Eqtl Maranhao,ON,Bovespa,Ação,ativo,EQMA3B,-479.930,-758.359,-333.218,-458.387,-390.666
+Eqtl Maranhao,PNA,Bovespa,Ação,ativo,EQMA5B,-479.930,-758.359,-333.218,-458.387,-390.666
+Eqtl Maranhao,PNB,Bovespa,Ação,ativo,EQMA6B,-479.930,-758.359,-333.218,-458.387,-390.666
+Eqtl Para,ON,Bovespa,Ação,ativo,EQPA3,-618.275,-905.468,-1.950.544,-325.969,-1.678.075
+Eqtl Para,PNA,Bovespa,Ação,ativo,EQPA5,-618.275,-905.468,-1.950.544,-325.969,-1.678.075
+Eqtl Para,PNB,Bovespa,Ação,ativo,EQPA6,-618.275,-905.468,-1.950.544,-325.969,-1.678.075
+Eqtl Para,PNC,Bovespa,Ação,ativo,EQPA7,-618.275,-905.468,-1.950.544,-325.969,-1.678.075
+Equatorial,ON,Bovespa,Ação,ativo,EQTL3,-651.476,-1.220.079,-1.091.565,-796.686,-1.433.959
+Espacolaser,ON,Bovespa,Ação,ativo,ESPA3,-13.959,-34.736,0,0,0
+Estapar,ON,Bovespa,Ação,ativo,ALPK3,-,-,-,-,-
+Estrela,ON,Bovespa,Ação,ativo,ESTR3,0,0,0,0,0
+Estrela,PN,Bovespa,Ação,ativo,ESTR4,0,0,0,0,0
+Eternit,ON,Bovespa,Ação,ativo,ETER3,0,0,-44.214,-22.001,-27.188
+Eucatex,ON,Bovespa,Ação,ativo,EUCA3,0,0,0,0,0
+Eucatex,PN,Bovespa,Ação,ativo,EUCA4,0,0,0,0,0
+Eurofarma SA,ON,Bovespa,Ação,ativo,EUFA3,-112.535,-514.635,-244.509,-183.456,-212.633
+Even,ON,Bovespa,Ação,ativo,EVEN3,-29.263,-171.777,0,-81.000,-229.536
+Excelsior,ON,Bovespa,Ação,ativo,BAUH3,-3.225,-4.932,-2.055,-5.986,-4.054
+Excelsior,PN,Bovespa,Ação,ativo,BAUH4,-3.225,-4.932,-2.055,-5.986,-4.054
+Eztec,ON,Bovespa,Ação,ativo,EZTC3,-66.757,-96.238,-171.789,-44.692,-235.681
+Fer Heringer,ON,Bovespa,Ação,ativo,FHER3,0,0,0,0,0
+Ferbasa,ON,Bovespa,Ação,ativo,FESA3,-48.998,-104.559,-448.753,-225.917,-173.618
+Ferbasa,PN,Bovespa,Ação,ativo,FESA4,-48.998,-104.559,-448.753,-225.917,-173.618
+Fica,ON,Bovespa,Ação,ativo,FIEI3,0,0,0,0,0
+Fictoralimen,ON,Bovespa,Ação,ativo,FICT3,0,-6.267,-1.440,-7.512,0
+Fleury,ON,Bovespa,Ação,ativo,FLRY3,-228.929,-296.141,-337.201,-510.109,-343.362
+Fras-Le,ON,Bovespa,Ação,ativo,FRAS3,-14.060,-72.569,-70.110,-111.267,-162.805
+G2d Invest,A,Bovespa,Ação,ativo,G2DI33,0,0,0,0,0
+Gafisa,ON,Bovespa,Ação,ativo,GFSA3,0,0,0,0,0
+Gama Part,ON,Bovespa,Ação,ativo,OPGM3,0,0,0,0,0
+Generalshopp,ON,Bovespa,Ação,ativo,GSHP3,0,0,0,0,0
+Ger Paranap,ON,Bovespa,Ação,ativo,GEPA3,-182.820,-322.414,-126.370,-161.942,-553.032
+Ger Paranap,PN,Bovespa,Ação,ativo,GEPA4,-182.820,-322.414,-126.370,-161.942,-553.032
+Gerdau,ON,Bovespa,Ação,ativo,GGBR3,-274.815,-5.339.426,-5.891.690,-2.683.328,-1.656.414
+Gerdau,PN,Bovespa,Ação,ativo,GGBR4,-274.815,-5.339.426,-5.891.690,-2.683.328,-1.656.414
+Gerdau Met,ON,Bovespa,Ação,ativo,GOAU3,-278.901,-6.163.616,-5.220.630,-3.401.879,-1.567.719
+Gerdau Met,PN,Bovespa,Ação,ativo,GOAU4,-278.901,-6.163.616,-5.220.630,-3.401.879,-1.567.719
+Gol,ON,Bovespa,Ação,ativo,GOLL53,-63.949,-260.131,0,0,0
+Gol,PN,Bovespa,Ação,ativo,GOLL54,-63.949,-260.131,0,0,0
+GP Invest,A,Bovespa,Ação,ativo,GPIV33,-25.204,-19.640,-1.820,-1.264,-506
+Gps,ON,Bovespa,Ação,ativo,GGPS3,-74.547,-539.314,-1.400,-176.140,-228.407
+Granja Faria,ON,Bovespa,Ação,ativo,EGGY3,-,-,-,0,0
+Grazziotin,ON,Bovespa,Ação,ativo,CGRA3,-30.753,-22.170,-42.203,-41.168,-45.881
+Grazziotin,PN,Bovespa,Ação,ativo,CGRA4,-30.753,-22.170,-42.203,-41.168,-45.881
+Grendene,ON,Bovespa,Ação,ativo,GRND3,-151.262,-780.774,-275.632,-1.251.403,-369.417
+Grupo Mateus,ON,Bovespa,Ação,ativo,GMAT3,-,0,0,0,-81.047
+Grupo Natura,ON,Bovespa,Ação,ativo,NTCO3,-133.937,0,-180.512,0,-1.022.860
+Grupo Sbf,ON,Bovespa,Ação,ativo,SBFG3,0,0,-28.637,-33.085,-42.284
+Grupo Toky,ON,Bovespa,Ação,ativo,TOKY3,-,-,0,0,0
+Guararapes,ON,Bovespa,Ação,ativo,GUAR3,-316.274,-206.088,-211.201,-60.136,-59.797
+Habitasul,ON,Bovespa,Ação,ativo,HBTS3,-317,-988,-25.289,-20.135,-45.206
+Habitasul,PNA,Bovespa,Ação,ativo,HBTS5,-317,-988,-25.289,-20.135,-45.206
+Habitasul,PNB,Bovespa,Ação,ativo,HBTS6,-317,-988,-25.289,-20.135,-45.206
+Haga S/A,ON,Bovespa,Ação,ativo,HAGA3,-,-,-,0,0
+Haga S/A,PN,Bovespa,Ação,ativo,HAGA4,-,-,-,0,0
+Hapvida,ON,Bovespa,Ação,ativo,HAPV3,-204.653,-284.588,-1.017.145,0,0
+Hbr Realty,ON,Bovespa,Ação,ativo,HBRE3,0,0,0,0,0
+Helbor,ON,Bovespa,Ação,ativo,HBOR3,0,-6.298,-23.980,-12.125,-12.077
+Hercules,ON,Bovespa,Ação,ativo,HETA3,0,0,0,0,0
+Hercules,PN,Bovespa,Ação,ativo,HETA4,0,0,0,0,0
+Hidrovias,ON,Bovespa,Ação,ativo,HBSA3,-1.961,0,0,0,0
+Hmobi S/A,ON,Bovespa,Ação,ativo,HMOB3,0,-2.557,0,0,-39.314
+Hoteis Othon,ON,Bovespa,Ação,ativo,HOOT3,0,0,0,0,0
+Hoteis Othon,PN,Bovespa,Ação,ativo,HOOT4,0,0,0,0,0
+Hypera,ON,Bovespa,Ação,ativo,HYPE3,-682.474,-745.936,-806.208,-759.885,-787.286
+Igua SA,ON,Bovespa,Ação,ativo,IGSN3,0,0,0,0,0
+Iguatemi SA,ON,Bovespa,Ação,ativo,IGTI3,-47.924,-9.969,-89.863,-109.857,-199.738
+Iguatemi SA,PN,Bovespa,Ação,ativo,IGTI4,-47.924,-9.969,-89.863,-109.857,-199.738
+Iguatemi SA,UNT,Bovespa,Ação,ativo,IGTI11,-47.924,-9.969,-89.863,-109.857,-199.738
+Imc S/A,ON,Bovespa,Ação,ativo,MEAL3,-2.011,-2.724,0,0,0
+Inc SA,ON,Bovespa,Ação,ativo,INNC3,0,0,0,0,0
+Ind Cataguas,ON,Bovespa,Ação,ativo,CATA3,-454,-2.448,-2.992,-5.983,-6.981
+Ind Cataguas,PN,Bovespa,Ação,ativo,CATA4,-454,-2.448,-2.992,-5.983,-6.981
+Inepar,ON,Bovespa,Ação,ativo,INEP3,0,0,0,0,0
+Inepar,PN,Bovespa,Ação,ativo,INEP4,0,0,0,0,0
+Infracomm,ON,Bovespa,Ação,ativo,IFCM3,0,0,0,0,0
+Intelbras,ON,Bovespa,Ação,ativo,INTB3,-22.586,-131.150,-115.488,-173.205,-200.926
+Invepar,ON,Bovespa,Ação,ativo,IVPR3B,0,0,0,0,0
+Invepar,PN,Bovespa,Ação,ativo,IVPR4B,0,0,0,0,0
+Invest Bemge,ON,Bovespa,Ação,ativo,FIGE3,-73,-,-98.403,-99,-114
+Invest Bemge,PN,Bovespa,Ação,ativo,FIGE4,-73,-,-98.403,-99,-114
+Iochp-Maxion,ON,Bovespa,Ação,ativo,MYPK3,-146.196,-165.641,-235.533,-158.180,-96.289
+Irani,ON,Bovespa,Ação,ativo,RANI3,-16.544,-89.933,-158.786,-205.734,-126.043
+Irbbrasil Re,ON,Bovespa,Ação,ativo,IRBR3,0,-24.815,-11,0,0
+Isa Energia,ON,Bovespa,Ação,ativo,ISAE3,-747.369,-2.656.470,-97.726,-597.757,-1.239.070
+Isa Energia,PN,Bovespa,Ação,ativo,ISAE4,-747.369,-2.656.470,-97.726,-597.757,-1.239.070
+Itausa,ON,Bovespa,Ação,ativo,ITSA3,-4.569.000,-3.335.000,-3.851.000,-4.561.000,-8.196.000
+Itausa,PN,Bovespa,Ação,ativo,ITSA4,-4.569.000,-3.335.000,-3.851.000,-4.561.000,-8.196.000
+ItauUnibanco,ON,Bovespa,Ação,ativo,ITUB3,-12.058.000,-6.397.000,-6.999.000,-10.714.000,-21.903.000
+ItauUnibanco,PN,Bovespa,Ação,ativo,ITUB4,-12.058.000,-6.397.000,-6.999.000,-10.714.000,-21.903.000
+Jallesmachad,ON,Bovespa,Ação,ativo,JALL3,-48.565,-86.584,0,-129.556,-20.413
+JBS Nv,ON,Bovespa,Ação,ativo,JBSS32,-,-,-,0,0
+JHSF Part,ON,Bovespa,Ação,ativo,JHSF3,-115.524,-269.361,-141.491,-301.986,-250.001
+Joao Fortes,ON,Bovespa,Ação,ativo,JFEN3,-7.100,0,0,0,0
+Josapar,ON,Bovespa,Ação,ativo,JOPA3,-2.596,0,-10.552,-10.516,-11.086
+Josapar,PN,Bovespa,Ação,ativo,JOPA4,-2.596,0,-10.552,-10.516,-11.086
+JSL,ON,Bovespa,Ação,ativo,JSLG3,-55.413,-32.864,-99.872,-134.775,0
+Kallas,ON,Bovespa,Ação,ativo,KLAS3,0,-100.193,-12.502,-7.134,-7.258
+Karsten,ON,Bovespa,Ação,ativo,CTKA3,0,0,0,0,0
+Karsten,PN,Bovespa,Ação,ativo,CTKA4,0,0,0,0,0
+Kepler Weber,ON,Bovespa,Ação,ativo,KEPL3,-14.388,-46.880,-178.551,-152.690,-152.651
+Klabin S/A,ON,Bovespa,Ação,ativo,KLBN3,-293.678,-580.929,-1.746.676,-1.478.395,-1.779.031
+Klabin S/A,PN,Bovespa,Ação,ativo,KLBN4,-293.678,-580.929,-1.746.676,-1.478.395,-1.779.031
+Klabin S/A,UNT N2,Bovespa,Ação,ativo,KLBN11,-293.678,-580.929,-1.746.676,-1.478.395,-1.779.031
+Lavvi,ON,Bovespa,Ação,ativo,LAVV3,-22.475,-155.952,-132.755,-153.071,-158.376
+Le Biscuit,ON,Bovespa,Ação,ativo,LLBI3,-496,-6.892,0,0,0
+Lifemed,ON,Bovespa,Ação,ativo,LMED3,0,-9.776,-22.756,0,0
+Light S/A,ON,Bovespa,Ação,ativo,LIGT3,0,-164.332,-94.512,0,0
+Litel,ON,Bovespa,Ação,ativo,LTEL3B,-58.800,-937.569,-530.630,-517.915,-322.001
+Litela,ON,Bovespa,Ação,ativo,LTLA3B,-,-,-,-,-
+Localiza,ON,Bovespa,Ação,ativo,RENT3,-269.112,-300.178,-1.357.128,-1.341.977,-1.294.383
+Log Com Prop,ON,Bovespa,Ação,ativo,LOGG3,-21.423,-33.240,-87.627,-91.692,-220.000
+Log-In,ON,Bovespa,Ação,ativo,LOGN3,0,0,0,0,0
+Lojas Marisa,ON,Bovespa,Ação,ativo,AMAR3,0,0,0,0,0
+Lojas Renner,ON,Bovespa,Ação,ativo,LREN3,-243.835,-244.037,-764.480,-462.104,-691.875
+Lopes Brasil,ON,Bovespa,Ação,ativo,LPSB3,-22.817,-18.153,-30.153,-16.941,-20.793
+Lupatech,ON,Bovespa,Ação,ativo,LUPA3,0,0,0,0,0
+Lwsa,ON,Bovespa,Ação,ativo,LWSA3,-16.000,0,0,-30.815,-40.001
+M.Diasbranco,ON,Bovespa,Ação,ativo,MDIA3,-84.999,-222.087,-655.483,-69.775,-221.821
+Magaz Luiza,ON,Bovespa,Ação,ativo,MGLU3,-299.405,-146.133,-99.966,0,0
+Mangels Indl,ON,Bovespa,Ação,ativo,MGEL3,0,0,0,0,0
+Mangels Indl,PN,Bovespa,Ação,ativo,MGEL4,0,0,0,0,0
+Marcopolo,ON,Bovespa,Ação,ativo,POMO3,-69.971,-16.539,-88.785,-335.655,-663.089
+Marcopolo,PN,Bovespa,Ação,ativo,POMO4,-69.971,-16.539,-88.785,-335.655,-663.089
+Marfrig,ON,Bovespa,Ação,ativo,MRFG3,-1.283.405,-3.744.927,-2.769.703,-340.763,-3.135.078
+Mater Dei,ON,Bovespa,Ação,ativo,MATD3,-30.248,-27.293,-59.010,-24.582,-28.418
+Melhor SP,ON,Bovespa,Ação,ativo,MSPA3,0,0,0,-359,-1.871
+Melhor SP,PN,Bovespa,Ação,ativo,MSPA4,0,0,0,-359,-1.871
+Meliuz,ON,Bovespa,Ação,ativo,CASH3,0,-4.665,-2,0,-10
+Melnick,ON,Bovespa,Ação,ativo,MELK3,-41.191,-68.318,-31.364,-124.580,-81.416
+Menezes Cort,ON,Bovespa,Ação,ativo,MNZC3,-,-,-,-,-
+Merc Financ,ON,Bovespa,Ação,ativo,MERC3,-4.993,-3.941,-3.444,-3.244,-9.155
+Merc Financ,PN,Bovespa,Ação,ativo,MERC4,-4.993,-3.941,-3.444,-3.244,-9.155
+Merc Invest,ON,Bovespa,Ação,ativo,BMIN3,-833,-1.161,-517,-6.754,-6.074
+Merc Invest,PN,Bovespa,Ação,ativo,BMIN4,-833,-1.161,-517,-6.754,-6.074
+Mercantil,ON,Bovespa,Ação,ativo,BMEB3,-35.248,-64.938,-56.615,-80.705,-183.820
+Mercantil,PN,Bovespa,Ação,ativo,BMEB4,-35.248,-64.938,-56.615,-80.705,-183.820
+Metal Leve,ON,Bovespa,Ação,ativo,LEVE3,-20.947,-117.910,-543.741,-1.344.601,-318.290
+Metalfrio,ON,Bovespa,Ação,ativo,FRIO3,-6.610,-957,-535,-350,0
+Metisa,ON,Bovespa,Ação,ativo,MTSA3,-6.433,-15.796,-15.793,-33.154,-22.987
+Metisa,PN,Bovespa,Ação,ativo,MTSA4,-6.433,-15.796,-15.793,-33.154,-22.987
+Mills,ON,Bovespa,Ação,ativo,MILS3,0,-43.089,-59.100,-54.795,-110.350
+Minasmaquina,ON,Bovespa,Ação,ativo,MMAQ3,-5.102,-11.721,-10.003,-8.391,-8.027
+Minasmaquina,PN,Bovespa,Ação,ativo,MMAQ4,-5.102,-11.721,-10.003,-8.391,-8.027
+Minerva,ON,Bovespa,Ação,ativo,BEEF3,-138.454,-602.681,-328.078,-295.314,0
+Minupar,ON,Bovespa,Ação,ativo,MNPR3,0,0,0,0,0
+Mitre Realty,ON,Bovespa,Ação,ativo,MTRE3,0,-59.733,-34.637,-84.078,-45.264
+Mont Aranha,ON,Bovespa,Ação,ativo,MOAR3,-69.938,-550.545,-179.960,-167.922,-371.141
+Motiva SA,ON,Bovespa,Ação,ativo,MOTV3,-986.228,-337.481,-775.856,-443.478,-1.172.924
+Moura Dubeux,ON,Bovespa,Ação,ativo,MDNE3,0,0,0,0,-54.677
+Movida,ON,Bovespa,Ação,ativo,MOVI3,-56.736,-106.614,-447.638,-138.200,0
+Mrs Logist,ON,Bovespa,Ação,ativo,MRSA3B,-239.045,-102.130,-166.162,-207.622,-284.989
+Mrs Logist,PNA,Bovespa,Ação,ativo,MRSA5B,-239.045,-102.130,-166.162,-207.622,-284.989
+Mrs Logist,PNB,Bovespa,Ação,ativo,MRSA6B,-239.045,-102.130,-166.162,-207.622,-284.989
+MRV,ON,Bovespa,Ação,ativo,MRVE3,-163.933,-310.381,-194.205,0,0
+Multilaser,ON,Bovespa,Ação,ativo,MLAS3,-44.832,-125.260,-100.000,0,0
+Multiplan,ON,Bovespa,Ação,ativo,MULT3,-148.375,-237.048,-208.358,-384.185,-513.404
+Mundial,ON,Bovespa,Ação,ativo,MNDL3,0,0,0,0,0
+Neoenergia,ON,Bovespa,Ação,ativo,NEOE3,-467.000,-708.000,-1.036.000,-1.378.000,-979.000
+Neogrid,ON,Bovespa,Ação,ativo,NGRD3,0,0,0,-3.379,-1.241
+Nexpe,ON,Bovespa,Ação,ativo,NEXP3,0,0,0,0,0
+Nord Brasil,ON,Bovespa,Ação,ativo,BNBR3,-95.584,-411.500,-380.663,-523.775,-515.267
+Nordon Met,ON,Bovespa,Ação,ativo,NORD3,0,0,-,0,-
+Nortcquimica,ON,Bovespa,Ação,ativo,NRTQ3,-3.286,-6.053,-7.903,-6.661,-7.555
+Nutriplant,ON,Bovespa,Ação,ativo,NUTR3,-,-,-,-,-
+Oceanpact,ON,Bovespa,Ação,ativo,OPCT3,0,0,0,0,0
+Oderich,ON,Bovespa,Ação,ativo,ODER3,-,-,-,-,-
+Oderich,PN,Bovespa,Ação,ativo,ODER4,-,-,-,-,-
+Odontoprev,ON,Bovespa,Ação,ativo,ODPV3,-270.219,-261.159,-169.777,-182.891,-542.758
+Oi,ON,Bovespa,Ação,ativo,OIBR3,0,0,0,0,0
+Oi,PN,Bovespa,Ação,ativo,OIBR4,0,0,0,0,0
+Oncoclinicas,ON,Bovespa,Ação,ativo,ONCO3,-45.216,-26.398,-18.291,-59.713,-11.656
+Orizon,ON,Bovespa,Ação,ativo,ORVR3,0,0,0,0,0
+OSX Brasil,ON,Bovespa,Ação,ativo,OSXB3,0,0,0,0,0
+Ourofino S/A,ON,Bovespa,Ação,ativo,OFSA3,-10.991,-35.607,-33.224,-23.408,-18.168
+P.Acucar-Cbd,ON,Bovespa,Ação,ativo,PCAR3,-339.000,-780.000,-265.000,-112.000,0
+Padtec,ON,Bovespa,Ação,ativo,PDTC3,0,0,0,0,-3.635
+Pague Menos,ON,Bovespa,Ação,ativo,PGMN3,805,0,0,0,0
+Panatlantica,ON,Bovespa,Ação,ativo,PATI3,-4.233,-43.342,-69.670,-13.227,-156.080
+Panatlantica,PN,Bovespa,Ação,ativo,PATI4,-4.233,-43.342,-69.670,-13.227,-156.080
+Par Al Bahia,ON,Bovespa,Ação,ativo,PEAB3,-429.247,-151.249,-23.487,-4.090,-23.495
+Par Al Bahia,PN,Bovespa,Ação,ativo,PEAB4,-429.247,-151.249,-23.487,-4.090,-23.495
+Paranapanema,ON,Bovespa,Ação,ativo,PMAM3,-20,0,-152,0,0
+PDG Realt,ON,Bovespa,Ação,ativo,PDGR3,0,0,0,0,0
+Pet Manguinh,ON,Bovespa,Ação,ativo,RPMG3,0,0,0,0,0
+Petrobras,ON,Bovespa,Ação,ativo,PETR3,-6.657.000,-72.718.000,-194.609.000,-98.178.000,-100.692.000
+Petrobras,PN,Bovespa,Ação,ativo,PETR4,-6.657.000,-72.718.000,-194.609.000,-98.178.000,-100.692.000
+Petrorecsa,ON,Bovespa,Ação,ativo,RECV3,0,0,-205.309,-281.943,-775.976
+Petrorio,ON,Bovespa,Ação,ativo,PRIO3,0,0,0,-60.618,0
+Pettenati,ON,Bovespa,Ação,ativo,PTNT3,-38.559,-3.258,-16.149,-12.069,-5.891
+Pettenati,PN,Bovespa,Ação,ativo,PTNT4,-38.559,-3.258,-16.149,-12.069,-5.891
+Petz,ON,Bovespa,Ação,ativo,PETZ3,-22.398,-13.872,-18.116,-12.008,-133.770
+Pine,ON,Bovespa,Ação,ativo,PINE3,0,0,-11.475,-25.710,-83.196
+Pine,PN,Bovespa,Ação,ativo,PINE4,0,0,-11.475,-25.710,-83.196
+Planoeplano,ON,Bovespa,Ação,ativo,PLPL3,0,-40.000,-32.083,-31.749,-118.484
+Plascar Part,ON,Bovespa,Ação,ativo,PLAS3,0,0,0,0,0
+Polpar,ON,Bovespa,Ação,ativo,PPAR3,-108,0,0,-979,-4.502
+Porto Seguro,ON,Bovespa,Ação,ativo,PSSA3,-689.515,-844.066,-2.861.362,-357.093,-838.424
+Portobello,ON,Bovespa,Ação,ativo,PTBL3,-6.305,-162.269,-46.884,-29.615,0
+Positivo Tec,ON,Bovespa,Ação,ativo,POSI3,-5.518,-52.591,-50.329,-77.368,-61.992
+Ppla,UNT,Bovespa,Ação,ativo,PPLA11,0,0,0,0,0
+Pratica,ON,Bovespa,Ação,ativo,PTCA3,-1.907,-1.157,-4.722,-4.277,-8.135
+Priner,ON,Bovespa,Ação,ativo,PRNR3,-1.808,0,-12.291,-43.142,-22.817
+Profarma,ON,Bovespa,Ação,ativo,PFRM3,0,-29.117,0,-31.229,-54.579
+Prompt Part,ON,Bovespa,Ação,ativo,PRPT3,0,0,0,0,0
+Qualicorp,ON,Bovespa,Ação,ativo,QUAL3,-51.641,-627.786,-78.381,-27.300,-6.780
+Quality Soft,ON,Bovespa,Ação,ativo,QUSW3,0,0,-2.543,-3.004,-4.694
+Quero-Quero,ON,Bovespa,Ação,ativo,LJQQ3,-5.081,-15.123,-21.250,0,-28.963
+RaiaDrogasil,ON,Bovespa,Ação,ativo,RADL3,-190.518,-265.025,-324.082,-465.901,-474.573
+Raizen,PN,Bovespa,Ação,ativo,RAIZ4,-23.273,-1.664.810,-1.518.092,-1.159.174,-69.238
+Randon Part,ON,Bovespa,Ação,ativo,RAPT3,-113.382,-262.139,-331.646,-294.182,-354.413
+Randon Part,PN,Bovespa,Ação,ativo,RAPT4,-113.382,-262.139,-331.646,-294.182,-354.413
+Rdvc City,ON,Bovespa,Ação,ativo,CCTY3,-,-,-,-,-
+Reaginvest,ON,Bovespa,Ação,ativo,REAG3,0,0,0,0,-
+Recrusul,ON,Bovespa,Ação,ativo,RCSL3,0,0,0,0,0
+Recrusul,PN,Bovespa,Ação,ativo,RCSL4,0,0,0,0,0
+Rede D Or,ON,Bovespa,Ação,ativo,RDOR3,-32.311,-3.071.597,-696.426,-849.188,-1.381.135
+Rede Energia,ON,Bovespa,Ação,ativo,REDE3,-231.212,-2.583.322,-1.453.156,-1.892.655,-1.534.780
+Renova,ON,Bovespa,Ação,ativo,RNEW3,0,0,0,0,0
+Renova,PN,Bovespa,Ação,ativo,RNEW4,0,0,0,0,0
+Renova,UNT N2,Bovespa,Ação,ativo,RNEW11,0,0,0,0,0
+Revee,ON,Bovespa,Ação,ativo,RVEE3,-,-,-,-,-
+Riosulense,ON,Bovespa,Ação,ativo,RSUL3,0,0,0,-8.613,-11.741
+Riosulense,PN,Bovespa,Ação,ativo,RSUL4,0,0,0,-8.613,-11.741
+Rni,ON,Bovespa,Ação,ativo,RDNI3,-623,-803,-7.494,-6.104,0
+Rodobens,UNT,Bovespa,Ação,ativo,RBNS11,-79.317,-500.897,-86.295,-478.690,-135.082
+Romi,ON,Bovespa,Ação,ativo,ROMI3,-88.916,-130.398,-70.195,-98.910,-58.029
+Rossi Resid,ON,Bovespa,Ação,ativo,RSID3,0,0,0,0,-
+Rumo S.A.,ON,Bovespa,Ação,ativo,RAIL3,-1.959,-7.084,-39.321,-124.992,-174.244
+Sabesp,ON,Bovespa,Ação,ativo,SBSP3,-890.095,-254.218,-603.541,-823.671,-928.851
+Sanepar,ON,Bovespa,Ação,ativo,SAPR3,-303.649,-267.575,-309.347,-385.542,-403.072
+Sanepar,PN,Bovespa,Ação,ativo,SAPR4,-303.649,-267.575,-309.347,-385.542,-403.072
+Sanepar,UNT N2,Bovespa,Ação,ativo,SAPR11,-303.649,-267.575,-309.347,-385.542,-403.072
+Sansuy,ON,Bovespa,Ação,ativo,SNSY3,0,0,0,0,0
+Sansuy,PNA,Bovespa,Ação,ativo,SNSY5,0,0,0,0,0
+Sansuy,PNB,Bovespa,Ação,ativo,SNSY6,0,0,0,0,0
+Santander BR,ON,Bovespa,Ação,ativo,SANB3,-10.211.084,-9.995.696,-7.556.433,-5.655.046,-5.618.714
+Santander BR,PN,Bovespa,Ação,ativo,SANB4,-10.211.084,-9.995.696,-7.556.433,-5.655.046,-5.618.714
+Santander BR,UNT,Bovespa,Ação,ativo,SANB11,-10.211.084,-9.995.696,-7.556.433,-5.655.046,-5.618.714
+Santanense,ON,Bovespa,Ação,ativo,CTSA3,-675,-10,-1.770,-136,-
+Santanense,PN,Bovespa,Ação,ativo,CTSA4,-675,-10,-1.770,-136,-
+Santos Brp,ON,Bovespa,Ação,ativo,STBP3,-11.680,-104.762,-655.707,-310.882,-668.227
+Sao Carlos,ON,Bovespa,Ação,ativo,SCAR3,0,-20.742,-8.184,-1.967,-101.440
+Sao Martinho,ON,Bovespa,Ação,ativo,SMTO3,-187.617,-807.557,-375.840,-408.165,-407.408
+Schulz,ON,Bovespa,Ação,ativo,SHUL3,-12.938,-39.802,-47.322,-73.015,-151.248
+Schulz,PN,Bovespa,Ação,ativo,SHUL4,-12.938,-39.802,-47.322,-73.015,-151.248
+Sequoia Log,ON,Bovespa,Ação,ativo,SEQL3,-3.491,0,0,0,0
+Ser Educa,ON,Bovespa,Ação,ativo,SEER3,-26.435,-40.610,0,0,0
+Serena,ON,Bovespa,Ação,ativo,SRNA3,-6.027,0,-625,0,0
+Sid Nacional,ON,Bovespa,Ação,ativo,CSNA3,-309.350,-3.290.544,-3.756.738,-3.980.871,-2.535.325
+Simpar,ON,Bovespa,Ação,ativo,SIMH3,-48.856,-226.573,-415.184,-481.563,-157.178
+SLC Agricola,ON,Bovespa,Ação,ativo,SLCE3,-179.843,-205.339,-558.383,-628.934,-423.837
+Smart Fit,ON,Bovespa,Ação,ativo,SMFT3,0,0,-8.116,-268.730,-50.862
+Sondotecnica,ON,Bovespa,Ação,ativo,SOND3,-2.132,-19.724,-15.596,-10.485,-11.961
+Sondotecnica,PNA,Bovespa,Ação,ativo,SOND5,-2.132,-19.724,-15.596,-10.485,-11.961
+Sondotecnica,PNB,Bovespa,Ação,ativo,SOND6,-2.132,-19.724,-15.596,-10.485,-11.961
+Springs,ON,Bovespa,Ação,ativo,SGPS3,0,0,0,0,-
+SPturis,ON,Bovespa,Ação,ativo,AHEB3,0,0,0,0,0
+SPturis,PNA,Bovespa,Ação,ativo,AHEB5,0,0,0,0,0
+SPturis,PNB,Bovespa,Ação,ativo,AHEB6,0,0,0,0,0
+Sudeste S/A,ON,Bovespa,Ação,ativo,OPSE3,0,0,0,0,-
+Sul 116 Part,ON,Bovespa,Ação,ativo,OPTS3,0,0,0,-,0
+Suzano Hold,ON,Bovespa,Ação,ativo,NEMO3,-4.970,-9.690,-4.123.620,-222.627,-1.583.777
+Suzano Hold,PNA,Bovespa,Ação,ativo,NEMO5,-4.970,-9.690,-4.123.620,-222.627,-1.583.777
+Suzano Hold,PNB,Bovespa,Ação,ativo,NEMO6,-4.970,-9.690,-4.123.620,-222.627,-1.583.777
+Suzano S.A.,ON,Bovespa,Ação,ativo,SUZB3,0,-9.683,-4.150.782,-192.532,-1.624.653
+Syn Prop Tec,ON,Bovespa,Ação,ativo,SYNE3,-134.995,-1.249.960,-79.999,0,-440.000
+Taesa,ON,Bovespa,Ação,ativo,TAEE3,-1.106.182,-1.551.506,-1.672.384,-1.004.020,-1.006.548
+Taesa,PN,Bovespa,Ação,ativo,TAEE4,-1.106.182,-1.551.506,-1.672.384,-1.004.020,-1.006.548
+Taesa,UNT N2,Bovespa,Ação,ativo,TAEE11,-1.106.182,-1.551.506,-1.672.384,-1.004.020,-1.006.548
+Taurus Armas,ON,Bovespa,Ação,ativo,TASA3,0,0,-194.238,-176.693,-38.317
+Taurus Armas,PN,Bovespa,Ação,ativo,TASA4,0,0,-194.238,-176.693,-38.317
+TC,ON,Bovespa,Ação,ativo,TRAD3,-,0,654,-711,0
+Technos,ON,Bovespa,Ação,ativo,TECN3,-4,0,-5.999,-5.999,-10.228
+Tecnisa,ON,Bovespa,Ação,ativo,TCSA3,0,0,0,0,0
+Tegma,ON,Bovespa,Ação,ativo,TGMA3,-22.431,-51.816,-73.963,-112.817,-180.158
+Tegra Incorp,ON,Bovespa,Ação,ativo,TEGA3,0,0,0,0,0
+Teka,ON,Bovespa,Ação,ativo,TEKA3,0,0,0,0,-
+Teka,PN,Bovespa,Ação,ativo,TEKA4,0,0,0,0,-
+Tekno,ON,Bovespa,Ação,ativo,TKNO3,-490,-6.802,-15.583,-10.851,-11.090
+Tekno,PN,Bovespa,Ação,ativo,TKNO4,-490,-6.802,-15.583,-10.851,-11.090
+Telebras,ON,Bovespa,Ação,ativo,TELB3,0,0,0,0,0
+Telebras,PN,Bovespa,Ação,ativo,TELB4,0,0,0,0,0
+Telef Brasil,ON,Bovespa,Ação,ativo,VIVT3,-5.259.367,-4.901.326,-5.709.263,-3.832.612,-2.532.399
+Tenda,ON,Bovespa,Ação,ativo,TEND3,-48.573,-17.055,0,0,0
+Terrasantapa,ON,Bovespa,Ação,ativo,LAND3,0,0,-19.714,-130.278,-8.361
+Tex Renaux,ON,Bovespa,Ação,ativo,TXRX3,-,-,-,-,-
+Tex Renaux,PN,Bovespa,Ação,ativo,TXRX4,-,-,-,-,-
+Tim,ON,Bovespa,Ação,ativo,TIMS3,-1.153.054,-1.042.976,-1.199.201,-2.174.929,-2.720.095
+Time For Fun,ON,Bovespa,Ação,ativo,SHOW3,0,0,0,0,-240
+Totvs,ON,Bovespa,Ação,ativo,TOTS3,-108.228,-143.634,-140.036,-412.163,-265.352
+Track Field,PN,Bovespa,Ação,ativo,TFCO4,-115.194,-15.665,-9.881,-25.720,-29.498
+Trevisa,ON,Bovespa,Ação,ativo,LUXM3,0,0,0,0,0
+Trevisa,PN,Bovespa,Ação,ativo,LUXM4,0,0,0,0,0
+Trisul,ON,Bovespa,Ação,ativo,TRIS3,-40.000,-44.994,-39.957,-24.984,-36.000
+Triunfo Part,ON,Bovespa,Ação,ativo,TPIS3,0,-7.151,-3.243,-7.942,-9.968
+Tupy,ON,Bovespa,Ação,ativo,TUPY3,-56,-40.123,-54.549,-142.138,-93.926
+Ultrapar,ON,Bovespa,Ação,ativo,UGPA3,-284.767,-705.753,-638.280,-400.025,-833.658
+Unicasa,ON,Bovespa,Ação,ativo,UCAS3,-16.475,-13.276,-6.338,-10.617,-11.672
+Unifique,ON,Bovespa,Ação,ativo,FIQE3,-12.473,-70.604,-30.000,-53.209,-75.000
+Unipar,ON,Bovespa,Ação,ativo,UNIP3,-110.562,-1.365.042,-1.355.350,-345.392,-438.648
+Unipar,PNA,Bovespa,Ação,ativo,UNIP5,-110.562,-1.365.042,-1.355.350,-345.392,-438.648
+Unipar,PNB,Bovespa,Ação,ativo,UNIP6,-110.562,-1.365.042,-1.355.350,-345.392,-438.648
+Usiminas,ON,Bovespa,Ação,ativo,USIM3,-68.083,-1.849.264,-1.233.223,-726.529,-383.804
+Usiminas,PNA,Bovespa,Ação,ativo,USIM5,-68.083,-1.849.264,-1.233.223,-726.529,-383.804
+Usiminas,PNB,Bovespa,Ação,ativo,USIM6,-68.083,-1.849.264,-1.233.223,-726.529,-383.804
+Vale,ON,Bovespa,Ação,ativo,VALE3,-18.708.953,-73.287.000,-34.157.000,-27.967.000,-20.663.000
+Valid,ON,Bovespa,Ação,ativo,VLID3,-44.340,-2.018,-464,0,-26.475
+Vamos,ON,Bovespa,Ação,ativo,VAMO3,-159.377,-190.806,0,-247.307,-340.568
+Veste,ON,Bovespa,Ação,ativo,VSTE3,0,0,0,-13.125,-5.404
+Vibra,ON,Bovespa,Ação,ativo,VBBR3,-1.080.000,-2.761.000,-490.000,-401.000,-1.528.000
+Vitrueduca,ON,Bovespa,Ação,ativo,VTRU3,-,-,0,-21.159,-6.289
+Vittia,ON,Bovespa,Ação,ativo,VITT3,-,-,-18.627,-30.123,-38.191
+Vivara S.A.,ON,Bovespa,Ação,ativo,VIVA3,-35.563,-41.651,-70.889,-85.701,-87.693
+Viveo,ON,Bovespa,Ação,ativo,VVEO3,0,0,-112.985,-74.742,-43.482
+Viver,ON,Bovespa,Ação,ativo,VIVR3,0,0,0,0,0
+Vulcabras,ON,Bovespa,Ação,ativo,VULC3,0,-86.011,-90.930,-229.110,-783.020
+Wdc Networks,ON,Bovespa,Ação,ativo,LVTC3,-4.796,-15.006,-11.252,-862,0
+Weg,ON,Bovespa,Ação,ativo,WEGE3,-881.332,-1.657.345,-1.887.512,-2.308.620,-2.934.611
+Westwing,ON,Bovespa,Ação,ativo,WEST3,-,-,-,-,-
+Wetzel S/A,ON,Bovespa,Ação,ativo,MWET3,0,0,0,0,0
+Wetzel S/A,PN,Bovespa,Ação,ativo,MWET4,0,0,0,0,0
+Whirlpool,ON,Bovespa,Ação,ativo,WHRL3,-575.686,-906.501,-290.037,-527.734,-587.407
+Whirlpool,PN,Bovespa,Ação,ativo,WHRL4,-575.686,-906.501,-290.037,-527.734,-587.407
+Wilson Sons,ON,Bovespa,Ação,ativo,PORT3,-217.974,-38.468,-277.845,-286.497,-473.111
+Wiz Co,ON,Bovespa,Ação,ativo,WIZC3,-,-102.712,-118.596,-155.340,-180.082
+Wlm Ind Com,ON,Bovespa,Ação,ativo,WLMM3,-11.980,-22.059,-35.197,-40.402,-47.379
+Wlm Ind Com,PN,Bovespa,Ação,ativo,WLMM4,-11.980,-22.059,-35.197,-40.402,-47.379
+Yduqs Part,ON,Bovespa,Ação,ativo,YDUQ3,-153.426,-141.748,-37.557,-80.754,-80.557
+Zamp S.A.,ON,Bovespa,Ação,ativo,ZAMP3,-10.054,0,0,0,0
