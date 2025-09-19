@@ -13,6 +13,7 @@ tabulate = "*"
 pycaret = "*"
 dotenv = "*"
 nbstripout = "*"
+jupyter = "*"
 
 [dev-packages]
 ipykernel = "*"

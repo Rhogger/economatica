@@ -1,0 +1,50 @@
+{
+  "folders": [
+    {
+      "name": "Economatica Analysis",
+      "path": "../"
+    },
+  ],
+  "settings": {
+    "python": {
+      "defaultInterpreterPath": "python3.11",
+      "linting": {
+        "enabled": true,
+        "flake8Enabled": true
+      }
+    },
+    "jupyter": {
+      "askForKernelRestart": false
+    },
+    "autoDocstring": {
+      "docstringFormat": "google"
+    },
+    "files": {
+      "exclude": {
+        "**/.git": true,
+        "**/__pycache__": true,
+        "**/*.pyc": true,
+        "**/logs.log": true
+      }
+    },
+    "explorer": {
+      "fileNesting": {
+        "enabled": true,
+        "expand": false,
+        "patterns": {
+          "README.md": "PROJECT.md",
+          ".tool-versions": "Pipfile, Pipfile.lock, .gitattributes, .gitignore, .env"
+        }
+      }
+    }
+  },
+  "extensions": {
+    "recommendations": [
+      "njpwerner.autodocstring",
+      "ms-toolsai.datawrangler",
+      "grapecity.gc-excelviewer",
+      "ms-python.flake8",
+      "ms-toolsai.jupyter"
+    ]
+  }
+}
