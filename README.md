@@ -29,6 +29,8 @@ Este projeto realiza análise de dados financeiros provenientes da base Economat
 - **NumPy** - Operações numéricas
 - **Scikit-learn** - Machine Learning e normalização
 - **PyCaret** - AutoML para comparação de modelos
+- **Gradio** - Criação de interfaces e componentes
+- **Plotly** - Visualização interativa de dados
 - **Matplotlib/Seaborn** - Visualização de dados
 - **Jupyter Notebook** - Ambiente de desenvolvimento
 
@@ -49,19 +51,10 @@ Este projeto realiza análise de dados financeiros provenientes da base Economat
 
 ### 💻 Ambiente Local
 
-**⚠️ Importante**:
-
+**⚠️ Importante**: 
 - Em todas as alternativas, é necessário o Python na versão **3.11.13**, considere utilizar o [**asdf**](https://asdf-vm.com/) para gerenciamento de versão de linguagens/frameworks.
-
-- Abra a workspace no VS Code:
-
-```bash
-code economatica.code-workspace
-```
-
 - Crie um arquivo `.env` na raiz do projeto com o conteúdo:
-
-```bash
+```
 GOOGLE_COLAB_RUNTIME=false
 ```
 
@@ -134,10 +127,8 @@ jupyter notebook
 ## 📊 Datasets
 
 ### Dados de Entrada
-
 - `df_economatica.csv` - Dataset original da Economatica
 
 ### Dados Processados
-
 - `df_economatica_limpo.csv` - Dados após limpeza inicial
 - `df_economatica_pre_processado_normalizado.csv` - Dados normalizados
